@@ -1,0 +1,92 @@
+body {
+  font-family: sans-serif;
+  height: 100vh; 
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-color: #6ac3db;
+  padding: 2.5em;
+  text-align: center;
+  padding: 2em 0em;
+  border-radius: 1.5em;
+  box-sizing: border-box;
+  z-index: 0;
+}
+
+.container{
+  width: 80%;
+  z-index: -1;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: 700;
+  display: inline;
+  color: #fff;
+}
+
+p, a{
+  font-size: 1.1em;
+  width: 90%;
+  margin: 1em auto;
+  color: #fff;
+}
+
+button {
+  font-size: 1.5em;
+  font-weight: 700;
+  border: 2px solid #fff;
+  background-color: #fff;
+  color: #282828;
+  display: inline-block;
+  padding: 0.5em 1.5em;
+  transition: all ease-in-out .3s;
+  border-radius: 0.5em;
+  user-select: none;
+  margin: 1em 0;
+}
+
+button:hover {
+  curser: pointer;
+  color: #f2f2f2;
+  background-color: #21a6b1;
+  border: 2px solid #fff;
+}
+
+#strategy {
+  width: 70%;
+  margin: 0 auto;
+  padding: 1em 2em;
+  font-size: 2em;
+  border-radius: 1.5em;
+  color: #fff;
+}
+
+.cloud{
+  width: 20%;
+  z-index: 1;
+  padding-right: 35em;
+}
+
+.cloud-2{
+  width: 23%;
+  z-index: 1;
+}
+
+.cloud-3{
+  width: 22%;
+  z-index: 1;
+  padding-right: 15em;
+}
+
+
+
+
+
+
+
+
+
+
